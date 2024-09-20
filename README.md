@@ -51,4 +51,6 @@ This application uses the Fixer.io API to fetch live exchange rates.
 
 ## Screenshots
 
-[Currency Converter Screenshot](Output Screenshots.png)
+
+[Currency Converter Screenshot](![Screenshot (33)](https://github.com/user-attachments/assets/74383077-f9c9-4e26-abcd-5759ef73d1bc)
+)
